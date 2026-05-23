@@ -123,4 +123,8 @@ python tools/export_stage3_thesis_report.py --metrics_dir outputs/retrain_combin
 | TP（两次停机合计） | 5 | 4 |
 | mean MCC | 0.272 | 0.236 |
 | 4/7 停机 MCC | 0.342 | 0.270 |
+
 详细数值见 `../程序运行结果/Stage3_多模型全量实验/`。
+
+## 8. 数据集
+完整数据集请见https://pan.baidu.com/s/1guvZRloESuBiMxQp4YZU6A?pwd=5du3

@@ -1,0 +1,25 @@
+{
+  "resample_rule": "1s",
+  "ffill_limit": 60,
+  "deviation_ratio": 0.2,
+  "min_segment_hours": 1.0,
+  "enable_liquid_level_filter": false,
+  "liquid_level_lo": 140.0,
+  "liquid_level_hi": 160.0,
+  "liquid_level_tag": null,
+  "require_auto_active": true,
+  "max_rows_per_tag": null,
+  "manual_ranges_report_txt": null,
+  "auto_discover_flow_act": true,
+  "discover_max_rows_per_tag": null,
+  "discover_top_k_related": 60,
+  "manual": {
+    "enable": true,
+    "min_const_hours": 0.5,
+    "diff_tol_abs": 0.05,
+    "diff_tol_rel": 0.001,
+    "auto_active_required": true,
+    "auto_active_threshold": 0.9
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "n_windows": 80481,
+  "n_features": 4096,
+  "window_spec": {
+    "window_seconds": 3600,
+    "overlap_seconds": 1800,
+    "max_windows_total": null
+  },
+  "text_spec": {
+    "deviation_ratio_normal": 0.2,
+    "float_round_ndigits": 3
+  },
+  "embed_spec": {
+    "embedding_type": "tfidf",
+    "max_features": 4096,
+    "ngram_range": [
+      1,
+      2
+    ]
+  },
+  "vectorizer_path": "E:\\毕设\\thesis_code\\outputs\\retrain_combined\\stage2_featurelib\\tfidf_vectorizer.pkl",
+  "vectors_path": "E:\\毕设\\thesis_code\\outputs\\retrain_combined\\stage2_featurelib\\tfidf_vectors.npz",
+  "texts_path": "E:\\毕设\\thesis_code\\outputs\\retrain_combined\\stage2_featurelib\\windows_texts.csv"
+}

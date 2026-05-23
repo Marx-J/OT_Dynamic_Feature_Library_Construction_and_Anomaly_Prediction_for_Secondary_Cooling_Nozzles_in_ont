@@ -1,0 +1,414 @@
+[
+  {
+    "circuit_key": "1ST_二冷水_1区_侧弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-12 08:40:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-01-09 18:09:00",
+        "end": "2026-04-01 12:18:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000001",
+      "flow_trg_tag": "1000000000000",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000003",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "1ST_二冷水_2区_外弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-07 00:53:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-07 00:53:00",
+        "end": "2026-04-06 22:16:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000005",
+      "flow_trg_tag": "1000000000004",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000007",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "2ST_二冷水_2区_内弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-08 13:15:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-08 13:15:00",
+        "end": "2026-04-07 10:18:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000009",
+      "flow_trg_tag": "1000000000008",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000011",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "2ST_二冷水_4区",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-01-09 19:19:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-04-01 06:09:00",
+        "end": "2026-04-01 06:11:00"
+      },
+      {
+        "start": "2026-04-01 12:15:00",
+        "end": "2026-04-01 12:17:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000013",
+      "flow_trg_tag": "1000000000012",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000015",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "3ST_二冷水_1区_侧弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-10 09:54:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-10 09:54:00",
+        "end": "2026-03-30 08:15:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000017",
+      "flow_trg_tag": "1000000000016",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000019",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "3ST_二冷水_3区",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-02-11 00:30:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-02-11 00:30:00",
+        "end": "2026-04-01 06:32:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000021",
+      "flow_trg_tag": "1000000000020",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000023",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "3ST_二冷水_4区",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-27 05:44:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-27 05:44:00",
+        "end": "2026-04-07 06:44:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000025",
+      "flow_trg_tag": "1000000000024",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000027",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "4ST_二冷水_1区_侧弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-12 05:06:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-12 05:06:00",
+        "end": "2026-04-01 09:52:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000029",
+      "flow_trg_tag": "1000000000028",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000031",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "4ST_二冷水_1区_内外弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-12 03:55:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-01-09 19:18:00",
+        "end": "2026-04-01 02:59:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000033",
+      "flow_trg_tag": "1000000000032",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000035",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "4ST_二冷水_2区_内弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-05 04:42:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-05 04:42:00",
+        "end": "2026-04-07 12:20:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000037",
+      "flow_trg_tag": "1000000000036",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000039",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "4ST_二冷水_2区_外弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-01-09 18:58:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-01-09 18:58:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000041",
+      "flow_trg_tag": "1000000000040",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000043",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "5ST_二冷水_1区_侧弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-04 20:41:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-04 20:41:00",
+        "end": "2026-04-07 09:26:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000045",
+      "flow_trg_tag": "1000000000044",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000047",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "5ST_二冷水_1区_内外弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-04 15:00:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-04 15:00:00",
+        "end": "2026-04-07 12:17:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000049",
+      "flow_trg_tag": "1000000000048",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000051",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "5ST_二冷水_4区",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-12-04 13:50:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-12-04 13:50:00",
+        "end": "2026-04-07 06:44:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000053",
+      "flow_trg_tag": "1000000000052",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000055",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "6ST_二冷水_2区_内弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-01-09 18:59:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-01-09 18:59:00",
+        "end": "2026-04-01 05:40:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000057",
+      "flow_trg_tag": "1000000000056",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000059",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "7ST_二冷水_2区_外弧",
+    "stable_ranges_raw": [
+      {
+        "start": "2025-11-29 10:36:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2025-11-29 10:36:00",
+        "end": "2026-04-01 02:07:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000061",
+      "flow_trg_tag": "1000000000060",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000063",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "7ST_二冷水_3区",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-01-09 17:43:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-01-09 17:43:00",
+        "end": "2026-04-07 22:32:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "1000000000065",
+      "flow_trg_tag": "1000000000064",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": "1000000000067",
+      "manual_report_txt_used": true
+    }
+  },
+  {
+    "circuit_key": "2ST_二冷水_2区_侧弧",
+    "stable_ranges_raw": [],
+    "stable_ranges_final": [],
+    "used_tags": {
+      "missing": [
+        "flow_act",
+        "flow_trg"
+      ],
+      "present": []
+    }
+  },
+  {
+    "circuit_key": "7ST_二冷水_4区",
+    "stable_ranges_raw": [
+      {
+        "start": "2026-03-11 00:00:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "stable_ranges_final": [
+      {
+        "start": "2026-03-11 00:00:00",
+        "end": "2026-04-07 23:44:00"
+      }
+    ],
+    "used_tags": {
+      "flow_act_tag": "2404291408898776",
+      "flow_trg_tag": "2411250148570403",
+      "auto_active_tag_used": null,
+      "manual_detection_valve_pos_tag": null,
+      "manual_report_txt_used": true
+    }
+  }
+]
